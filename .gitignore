@@ -2,4 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-/data
+data/
+ArrestData_files/
+ArrestData_cache/
